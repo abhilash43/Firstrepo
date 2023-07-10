@@ -1,0 +1,27 @@
+Day 1 jam
+ What is OOPL
+2. Two main components of OOPS
+3. What the features of OOPS
+4. What is a class
+5. What is an object
+6. what is instantiation and how is it done
+7. A class i made up of _________ and _________--
+8. What is a constructor and why
+9. What happens if there is no constructor in a class
+10. Why do we use parameterized constructor
+11. What  happens when a constructor executes
+12. How to access the member data / features out side the class
+13. How to execute a class method in other class or main
+14. What is toString and why did we use it
+15. What is static variable
+16. What is static block
+17. What is Java
+18. What is the extension of java file
+19. what is the extension of compiled code of java
+20. What is JDK
+21. What is JRE
+22. Steps when we execute a java program
+23. What is JVM what does it do
+24. Features of Java
+25. What is JIT compiler
+Day 2 jam
